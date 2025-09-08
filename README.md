@@ -1,37 +1,21 @@
-📚 Book Finder
+# 📚 Book Finder
 
-A React + TypeScript web application that allows users to search and explore books using the Open Library API. Designed for students and book enthusiasts, it provides book covers, author information, and publication details in a clean, responsive interface.
+A React + TypeScript app to search and explore books via Open Library API. Clean, responsive UI for students and book enthusiasts.
 
-🌟 Key Features
+## Features
+- Search books by title, author, or subject
+- View details: title, author, cover, description, publish year
+- Responsive design for desktop & mobile
+- Built with React, TypeScript, Tailwind CSS, Axios, React Router
 
-Search Books: Find books by title, author, or subject.
+## Live Demo & Code
+- Demo: [https://book-finder-eta-wheat.vercel.app/](https://book-finder-eta-wheat.vercel.app/)
+- GitHub: [https://github.com/amanverma20/book-finder](https://github.com/amanverma20/book-finder)
 
-View Book Details: See information like title, author, cover image, description, and first publish year.
+## Tech Stack
+React, TypeScript, Tailwind CSS, Axios, React Router, Vercel
 
-Responsive Design: Optimized for both desktop and mobile devices.
-
-Modern Tech Stack: Built with React, TypeScript, Tailwind CSS, Axios, and React Router.
-
-🚀 Live Demo & Code
-
-Live Demo: https://book-finder-eta-wheat.vercel.app/
-
-GitHub Repository: https://github.com/amanverma20/book-finder
-
-🛠 Technologies Used
-
-Frontend: React, TypeScript, Tailwind CSS
-
-API Integration: Axios, Open Library API
-
-Routing: React Router
-
-Deployment: Vercel
-
-👤 Author
-
-Aman Verma – Full-stack Developer | React, TypeScript, Tailwind CSS
-
-GitHub: https://github.com/amanverma20
-
-LinkedIn: https://linkedin.com/in/amanverma20
+## Author
+**Aman Verma** – Full-stack Developer  
+GitHub: [https://github.com/amanverma20](https://github.com/amanverma20)  
+LinkedIn: [https://linkedin.com/in/amanverma20](https://linkedin.com/in/amanverma20)
