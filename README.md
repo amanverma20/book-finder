@@ -9,7 +9,7 @@ A React + TypeScript app to search and explore books via Open Library API. Clean
 - Built with React, TypeScript, Tailwind CSS, Axios, React Router
 
 ## Live Demo & Code
-- Demo: [https://book-finder-eta-wheat.vercel.app/](https://book-finder-eta-wheat.vercel.app/)
+- Deployed Link : [https://book-finder-eta-wheat.vercel.app/](https://book-finder-eta-wheat.vercel.app/)
 - GitHub: [https://github.com/amanverma20/book-finder](https://github.com/amanverma20/book-finder)
 - Demonstration Video: [https://drive.google.com/file/d/1Opol97gNR2f42rXZ1ufktAFW94RYw51z/view?usp=sharing]
 
